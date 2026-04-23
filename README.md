@@ -8,9 +8,9 @@ This repository contains the LaTeX manuscript and supporting figures for a paper
 
 - `manuscript/main.tex` — main LaTeX manuscript
   
-- ![Study Region](figures/study_region_map.png)
+- ![Study Region](cheetah-paper-repo/figures/study_region_map.png)
   
-- ![Vegetation Classification](figures/vegetation_classification_map.png)
+- ![Vegetation Classification](cheetah-paper-repo/figures/vegetation_classification_map.png)
 
 ## Notes
 
