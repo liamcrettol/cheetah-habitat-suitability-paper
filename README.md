@@ -1,8 +1,6 @@
 # Landscape Fragmentation and Conservation Strategies for Cheetahs in Northern South Africa
 
-This repository contains the LaTeX manuscript and supporting figures for a paper on cheetah conservation in northern South Africa, with a focus on landscape fragmentation, habitat suitability, moni[...]
-
-Cheetah habitat suitability analysis using vegetation classification and spatial data in Limpopo, South Africa.
+This repository contains the LaTeX manuscript and supporting figures for a paper on cheetah habitat suitability analysis using vegetation classification and spatial data in Limpopo, South Africa.
 
 This project uses GIS and remote sensing to evaluate habitat characteristics relevant to cheetah distribution.
 
