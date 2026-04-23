@@ -3,6 +3,6 @@ Cheetah habitat suitability analysis using vegetation classification and spatial
 
 This repository contains:
 
-LaTeX manuscript of the study
-GIS-derived maps including study region and vegetation classification
+LaTeX manuscript of the study, 
+GIS-derived maps including study region and vegetation classification,
 Supporting figures used in analysis
